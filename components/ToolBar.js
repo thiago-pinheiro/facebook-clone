@@ -20,4 +20,4 @@ const ToolBar = () => {
   );
 }
 
-export default TollBar;
+export default ToolBar;
