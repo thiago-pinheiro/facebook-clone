@@ -10,7 +10,7 @@ const Container = styled.View`
 const User = styled.Image`
     width: 40px;
     height: 40px;
-    border-radius: 20px;
+    border-radius: 25px;
 `
 
 const Avatar = ({source}) => {
