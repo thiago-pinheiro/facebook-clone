@@ -14,7 +14,7 @@ const Container = styled.View`
 `
 const Text = styled.Text`
     color: #3a86e9;
-    font-size: 32px;
+    font-size: 35px;
     font-weight: bold;
     letter-spacing: -0.3px;
 `
@@ -52,7 +52,7 @@ const AppBar = () => {
                     <MaterialCommunityIcons
                         name="facebook-messenger"
                         size={29}
-                        
+
                     />
                 </Button>
             </Row>
